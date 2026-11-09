@@ -95,7 +95,7 @@ careerpath-ai/
 └── reviews/
     └── week01_review.md
 Khi bước sang giai đoạn triển khai, có thể bổ sung data/, src/, notebooks/, tests/, app/, configs/ và results/. Không đưa dữ liệu nhạy cảm, khóa bí mật hoặc tập dữ liệu không được phép phân phối lên GitHub.
-9. Lộ trình 90 ngày
+9. Lộ trình
 Tuần	Thời gian	Trọng tâm	Đầu ra chính
 1	09–15/11/2026	Khởi động, xác định vấn đề, khảo sát dữ liệu	Project Charter v1, Data Feasibility Note, Baseline Assessment
 2	16–22/11/2026	Khảo sát người dùng và dữ liệu	Stakeholder Register, Interview Guide, Dataset Audit
