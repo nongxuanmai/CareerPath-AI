@@ -4,7 +4,7 @@
 
 > **Trạng thái:** Đang lập kế hoạch (Planning)  
 > **Hình thức:** Dự án cá nhân kết hợp Business Analysis (BA) và Artificial Intelligence (AI)  
-> **Thời gian dự kiến:** 09/11/2026 – 06/02/2027 (90 ngày, khoảng 1 giờ/ngày)  
+> **Thời gian dự kiến:** 09/11/2026 – 06/02/2027 
 > **Phiên bản mục tiêu:** MVP v1.0
 
 ## 1. Giới thiệu
@@ -126,7 +126,7 @@ careerpath-ai/
 
 Khi bước sang giai đoạn triển khai, có thể bổ sung `data/`, `src/`, `notebooks/`, `tests/`, `app/`, `configs/` và `results/`. Không đưa dữ liệu nhạy cảm, khóa bí mật hoặc tập dữ liệu không được phép phân phối lên GitHub.
 
-## 9. Lộ trình 90 ngày
+## 9. Lộ trình
 
 | Tuần | Thời gian | Trọng tâm | Đầu ra chính |
 |---|---|---|---|
@@ -153,16 +153,6 @@ Khi bước sang giai đoạn triển khai, có thể bổ sung `data/`, `src/`,
 - **Cuối tuần 13:** Trình diễn và tự bảo vệ các lựa chọn BA/AI.
 
 ## 10. Tuần 1 – Kế hoạch từng ngày
-
-| Ngày | Nội dung (60 phút) | Sản phẩm | Tiêu chí nghiệm thu |
-|---|---|---|---|
-| 1 – 09/11 | Problem Statement: học 10', viết 35', giải thích 15' | `docs/01_problem_statement.md` | Đối tượng cụ thể; ≥2 khó khăn; ≥1 mục tiêu đo được; ≥2 giới hạn; phân biệt giả thuyết và sự thật |
-| 2 – 10/11 | Stakeholders: học 10', lập bảng 35', luyện nói 15' | `docs/02_stakeholders.md` | ≥3 nhóm; nhu cầu và cách xác minh; phân biệt người dùng/bên liên quan |
-| 3 – 11/11 | Data feasibility: ôn 10', kiểm tra dữ liệu 35', ghi rủi ro 15' | `docs/03_data_feasibility.md` | Nguồn, quyền sử dụng, cấu trúc, nhãn, ≥3 rủi ro và kết luận tạm thời |
-| 4 – 12/11 | MoSCoW: học 10', ưu tiên 35', giải thích 15' | `docs/04_mvp_scope.md` | ≥4 Must-have, ≥2 Won't-have; có lý do cho các quyết định chính |
-| 5 – 13/11 | Tự đánh giá BA (15'), AI (20'), Python/Pandas (15'), tổng kết (10') | `assessments/baseline_week1.md` | 10 câu hỏi, 1 bài thực hành, ghi mức tự tin; làm độc lập trước khi đối chiếu |
-| 6 – 14/11 | Đọc lại 10', viết Project Charter 40', thuyết trình 10' | `docs/05_project_charter.md` | Có mục tiêu, phạm vi, stakeholder, dữ liệu, rủi ro, tiến độ, success criteria; không mâu thuẫn |
-| 7 – 15/11 | Nghiệm thu 15', tổng kết 15', thuyết trình 15', reflection 15' | `reviews/week01_review.md` | Checklist, bài học, lỗi cần sửa và một đoạn phản tư cá nhân |
 
 ### Checklist nghiệm thu tuần 1
 
@@ -211,10 +201,6 @@ Các trụ cột được **lồng ghép** vào công việc hằng ngày, khôn
 | Kiểm thử và portfolio | Chưa thực hiện |
 
 Các trạng thái trên cần được cập nhật theo tiến độ thực tế.
-
-## 14. Bước tiếp theo
-
-**Ngày 1 – Xác định vấn đề:** tạo `docs/01_problem_statement.md` và viết phiên bản đầu tiên của Problem Statement theo tiêu chí nghiệm thu tại Mục 10. Sau đó review, chỉnh sửa và commit thay đổi lên Git.
 
 ---
 
